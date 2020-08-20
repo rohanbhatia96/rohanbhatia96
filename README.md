@@ -64,7 +64,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="rohanbhatia96's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohanbhatia96&show_icons=true&hide_border=true" />
+  <img align="left" alt="rohanbhatia96's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohanbhatia96&show_icons=true&hide_border=true&hide=contribs" />
 
 </details>
 
