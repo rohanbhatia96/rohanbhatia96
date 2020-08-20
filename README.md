@@ -71,4 +71,4 @@
 [website]: https://therohanbhatia.com
 [instagram]: https://www.instagram.com/rohanbhatia03/
 [linkedin]: https://www.linkedin.com/in/rohan-bhatia-coder
-[acousticbits]: https:acousticbits.com
+[acousticbits]: https://acousticbits.com
