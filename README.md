@@ -52,9 +52,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//rohanbhatia96/hero-battles/pull/2) in [rohanbhatia96/hero-battles](https://github.com//rohanbhatia96/hero-battles)
-2. 🎉 Merged PR [#1](https://github.com//rohanbhatia96/sorting-visualizer-react-native/pull/1) in [rohanbhatia96/sorting-visualizer-react-native](https://github.com//rohanbhatia96/sorting-visualizer-react-native)
-3. 🎉 Merged PR [#1](https://github.com//rohanbhatia96/hero-battles/pull/1) in [rohanbhatia96/hero-battles](https://github.com//rohanbhatia96/hero-battles)
+1. 🎉 Merged PR [#3](https://github.com//rohanbhatia96/hero-battles/pull/3) in [rohanbhatia96/hero-battles](https://github.com//rohanbhatia96/hero-battles)
+2. ❌ Reopened PR [#3](https://github.com//rohanbhatia96/hero-battles/pull/3) in [rohanbhatia96/hero-battles](https://github.com//rohanbhatia96/hero-battles)
+3. 🗣 Commented on [#3](https://github.com//rohanbhatia96/hero-battles/issues/3) in [rohanbhatia96/hero-battles](https://github.com//rohanbhatia96/hero-battles)
 <!--END_SECTION:activity-->
 
 
