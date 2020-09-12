@@ -52,9 +52,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//rohanbhatia96/hero-battles/pull/3) in [rohanbhatia96/hero-battles](https://github.com//rohanbhatia96/hero-battles)
-2. ❌ Reopened PR [#3](https://github.com//rohanbhatia96/hero-battles/pull/3) in [rohanbhatia96/hero-battles](https://github.com//rohanbhatia96/hero-battles)
-3. 🗣 Commented on [#3](https://github.com//rohanbhatia96/hero-battles/issues/3) in [rohanbhatia96/hero-battles](https://github.com//rohanbhatia96/hero-battles)
+1. ❌ Closed PR [#4](https://github.com//rohanbhatia96/hero-battles/pull/4) in [rohanbhatia96/hero-battles](https://github.com//rohanbhatia96/hero-battles)
+2. 🎉 Merged PR [#3](https://github.com//rohanbhatia96/hero-battles/pull/3) in [rohanbhatia96/hero-battles](https://github.com//rohanbhatia96/hero-battles)
+3. ❌ Reopened PR [#3](https://github.com//rohanbhatia96/hero-battles/pull/3) in [rohanbhatia96/hero-battles](https://github.com//rohanbhatia96/hero-battles)
 <!--END_SECTION:activity-->
 
 
