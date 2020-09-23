@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Completed Google’s Foobar Challenge](https://therohanbhatia.com/blog/completed-the-google-foobar-challenge/)
 - [Integrating Three.js With React Easily Without Wrapper Libraries](https://therohanbhatia.com/blog/integrating-three-js-with-react/)
 - [Making A Star Wars Intro Generator With React and p5.js](https://therohanbhatia.com/blog/star-wars-intro-generator-react-p5/)
 - [Building a Music Player App Using React Native Hooks (2020)](https://therohanbhatia.com/blog/music-player-app-using-react-native-hooks/)
 - [Acoustic Bits Case Study: Are eCommerce Stores Still Viable?](https://therohanbhatia.com/blog/acoustic-bits-case-study/)
-- [Skiron Gaming: Lessons Learnt From Failure](https://therohanbhatia.com/blog/lessons-learnt-from-failure/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
