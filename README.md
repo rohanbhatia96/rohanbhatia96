@@ -5,7 +5,7 @@
 ## I'm a Developer and Blogger!
 
 - 🔭 Currently looking forward to working as a remote developer!
-- 🌱 I'm learning fullstack development with javascript/typescript.
+- 🌱 Fullstack engineer with 5 years of experience specializing in JavaScript/TypeScript, React, and Python.
 - ✍ Sometimes, I write. Music blog -> [Acoustic Bits][acousticbits]. Personal blog -> [Rohan Bhatia][website]. 
 - ⚡ Fun fact: I love football, mixed martial arts and gaming!
 
@@ -68,6 +68,6 @@
 </details>
 
 [website]: https://therohanbhatia.com
-[instagram]: https://www.instagram.com/rohanbhatia03/
 [linkedin]: https://www.linkedin.com/in/rohan-bhatia-coder
 [acousticbits]: https://acousticbits.com
+[instagram]: https://www.instagram.com/rohanbhatia03/
