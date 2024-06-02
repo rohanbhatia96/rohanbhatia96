@@ -6,6 +6,7 @@
 
 - 🔭 Currently looking forward to working as a remote developer!
 - 🌱 Fullstack engineer with 5 years of experience specializing in JavaScript/TypeScript, React, and Python.
+- 👨🏻‍💻 Played a key role in developing [HelloAR][helloar] into a top-tier global 3D/AR platform 🚀
 - ✍ Sometimes, I write. Music blog -> [Acoustic Bits][acousticbits]. Personal blog -> [Rohan Bhatia][website]. 
 - ⚡ Fun fact: I love football, mixed martial arts and gaming!
 
@@ -71,3 +72,4 @@
 [linkedin]: https://www.linkedin.com/in/rohan-bhatia-coder
 [acousticbits]: https://acousticbits.com
 [instagram]: https://www.instagram.com/rohanbhatia03/
+[helloar]: https://helloar.io
